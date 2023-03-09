@@ -4,4 +4,4 @@ Remote changes!
 
 test commit!
 
-Another test commit!
+Another test commit new line!
